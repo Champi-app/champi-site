@@ -1,4 +1,4 @@
-# Privacyverklaring – {{APP_NAME}}
+# Privacyverklaring – Champi
 Laatst bijgewerkt: 24 oktober 2025
 
 {{APP_NAME}} (“de App”) wordt aangeboden door {{COMPANY}} (“wij/ons”). In deze verklaring leggen we uit welke gegevens we verwerken, waarom we dat doen en welke keuzes je hebt.
