@@ -1,12 +1,12 @@
 # Privacyverklaring – Champi
 Laatst bijgewerkt: 24 oktober 2025
 
-{{APP_NAME}} (“de App”) wordt aangeboden door {{COMPANY}} (“wij/ons”). In deze verklaring leggen we uit welke gegevens we verwerken, waarom we dat doen en welke keuzes je hebt.
+Champi wordt aangeboden door ons. In deze verklaring leggen we uit welke gegevens we verwerken, waarom we dat doen en welke keuzes je hebt.
 
 ## Samenvatting
 - We verwerken **account- en gebruiksgegevens** om de App te laten werken.
 - We gebruiken services van derden zoals **Apple (StoreKit)**, **Firebase** (Auth/Firestore/Analytics/Crashlytics) en **Google Mobile Ads (AdMob)**.
-- Je kunt je rechten uitoefenen via {{EMAIL}}.
+- Je kunt je rechten uitoefenen via champitheapp@gmail.com.
 
 ## Welke gegevens verwerken we?
 **Accountgegevens**
@@ -24,7 +24,7 @@ Laatst bijgewerkt: 24 oktober 2025
 - We tonen (soms) advertenties via **Google Mobile Ads (AdMob)**.  
   Afhankelijk van jouw toestemmingen kan AdMob apparaat- en gebruiksgegevens (waaronder advertentie-ID) gebruiken voor advertentiemetingen en -personalisatie. Je kunt dit beheren in **iOS → Instellingen → Privacy & Beveiliging → Tracking** en via advertentie-instellingen in de App (indien aanwezig).
 
-> Als je **{{APP_NAME}} Plus** of **Geen Ads** hebt, tonen we geen advertenties.
+> Als je **Champi Plus** of **Geen Ads** hebt, tonen we geen advertenties.
 
 ## Doeleinden
 - App-functies leveren (inloggen, voortgang bewaren, in-app aankopen).
@@ -58,8 +58,8 @@ Je hebt recht op inzage, correctie, verwijdering, beperking, overdraagbaarheid e
 De App is niet gericht op kinderen onder de 13 jaar. Als je denkt dat we onterecht gegevens van een kind hebben, neem contact op via {{EMAIL}}.
 
 ## Contact
-{{COMPANY}}  
-E-mail: {{EMAIL}}
+Champi 
+E-mail: champitheapp@gmail.com
 
 ## Wijzigingen
 We kunnen deze verklaring aanpassen. De laatste wijzigingsdatum staat bovenaan.
